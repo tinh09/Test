@@ -1,2 +1,5 @@
 this is third file for test branchs
+<<<<<<< my-changes
 change 3 from my change
+=======
+>>>>>>> thirdfortestbranch
