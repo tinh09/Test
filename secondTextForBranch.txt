@@ -1,2 +1,5 @@
 this is for testing branch too
+<<<<<<< my-changes
 Change affected from other branch
+=======
+>>>>>>> second text
